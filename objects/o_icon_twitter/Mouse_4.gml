@@ -1,0 +1,1 @@
+url_open_ext("https://twitter.com/loldodgegame1","_blank");

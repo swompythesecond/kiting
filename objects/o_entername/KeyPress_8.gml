@@ -1,0 +1,1 @@
+global.name=string_delete(global.name,string_length(global.name),1);

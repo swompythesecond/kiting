@@ -1,0 +1,1 @@
+url_open("https://loldodgegame.com/highscore.html");
